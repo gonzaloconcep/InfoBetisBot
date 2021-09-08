@@ -1,2 +1,2 @@
-# InfoBetisBpt
-Testing Telegram API with Telegraf libraru
+# InfoBetisBot
+Testing Telegram API with Telegraf library
